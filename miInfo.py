@@ -1,8 +1,10 @@
-#encoding: UTF-8
+#Autor: Anaid Fernanda Labat González, A01746289
+#Descripción: Dar a conocer algunos datos personales
 
-# Autor:Anaid Fernanda Labat González, A01746289
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+#A partir de aqui escribe tu programa
 
-# A partir de aquí escribe tu programa
-
-print("Hola")   # borrar
+print("Nombre: Anaid Fernanda Labat González")
+print("Matrícula: A01746289")
+print("Carrera: ISDR")
+print("Escuela de procedencia: UNITEC")
+print("Descripción: Me gusta leer, tomo clases de pintura y trabajo fines de semana")
